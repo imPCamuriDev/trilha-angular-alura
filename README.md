@@ -1,5 +1,8 @@
 ![Imagem de capa do curso. O título é "3519 - Node.js e terminal" e o subtítulo é "Dominando o ambiente de desenvolvimento front-end".](./thumb.png)
 
+# AVISO!
+Baixar: npm i --global json-server
+
 # VidFlow
 
 O VidFlow é uma plataforma de compartilhamento de vídeos.
